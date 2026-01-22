@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Flow Fit - Jump Rope Mastery",
+  "description": "Una plataforma integral para dominar el salto con cuerda, con rutinas basadas en evidencia, programas de entrenamiento y un coach IA personalizado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
